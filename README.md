@@ -44,7 +44,7 @@ This project addresses that gap by developing a Loan Performance Dashboard that 
 │
 ├── data/
 │   ├── raw/
-│   │   └── bank_loan_raw.xlsx
+│   │   └── bank_loan_raw.csv
 │   │
 │   └── processed/
 │       └── bank_loan_cleaned.xlsx
@@ -62,8 +62,14 @@ This project addresses that gap by developing a Loan Performance Dashboard that 
 └── README.md
 ```
 
-## Dashboard 1: Loan Performance Summary
+## Dataset Overview
 
+## Dashboard Screenshots
+### Loan Performance Summary 
+### Loan Performance Overview
+
+
+## Methodology
 
 
 
