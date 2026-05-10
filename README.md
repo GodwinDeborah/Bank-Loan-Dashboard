@@ -62,3 +62,20 @@ This project addresses that gap by developing a Loan Performance Dashboard that 
 └── README.md
 ```
 
+## Dashboard 1: Loan Performance Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
