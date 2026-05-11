@@ -66,8 +66,10 @@ This project addresses that gap by developing a Loan Performance Dashboard that 
 
 ## 6. Dashboard Screenshots
 ### Summary Dashboard
-### Overview Dashboard
+![Summary Dashboard](Images/Summary.jpg)
 
+### Overview Dashboard
+![Overview Dashboard](Images/Overview.jpg)
 
 ## 7. Methodology
 ### Data Cleaning and Preparation:
