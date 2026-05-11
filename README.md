@@ -50,7 +50,7 @@ This project addresses that gap by developing a Loan Performance Dashboard that 
 │       └── bank_loan_cleaned.xlsx
 │
 ├── docs/
-│   ├── business-problem.md
+│   ├── business-requirement.md
 │   ├── data-dictionary.md
 │   └── domain-knowledge.md
 │
@@ -65,8 +65,8 @@ This project addresses that gap by developing a Loan Performance Dashboard that 
 ## Dataset Overview
 
 ## Dashboard Screenshots
-### Loan Performance Summary 
-### Loan Performance Overview
+### Summary Dashboard
+### Overview Dashboard
 
 
 ## Methodology
