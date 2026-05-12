@@ -15,7 +15,7 @@
 12. [Author](#12-author)
 
 ## 1. Project Overview
-This project analyzes a bank loan dataset to assess portfolio performance, borrower behavior, and credit risk patterns. The data was cleaned and structured in Microsoft Excel to support accurate analysis and the development of key lending metrics, including loan classification into good and bad categories.
+This project analyzes a bank loan dataset to assess portfolio performance, borrower behavior, and credit risk patterns.The data was cleaned and transformed in Microsoft Excel to support portfolio analysis and the development of key lending metrics, including loan classification into good and bad categories.
 
 An interactive dashboard built with PivotTables enables tracking of loan applications, funded amounts, repayments, and overall portfolio health. The analysis reveals trends and risk indicators that support more informed lending decisions and improved portfolio management.
 
@@ -85,14 +85,21 @@ The dataset includes:
 - loan status classifications
 - geographic borrower distribution
 - credit risk indicators
+
 > Detailed column definitions and field descriptions are available in the Data Dictionary document located in the `docs/` folder.
 
 ## 6. Dashboard Screenshots
 ### Summary Dashboard
 ![Summary Dashboard](Images/Summary.jpg)
 
+- Provides a high-level view of overall loan portfolio performance, including application volume, funded amount, repayments, and risk indicators.
+- Highlights the proportion of good vs bad loans and compares performance metrics across loan statuses.
+ 
 ### Overview Dashboard
 ![Overview Dashboard](Images/Overview.jpg)
+
+- Explores loan application trends over time, geographic distribution by state, and borrower characteristics.
+- Enables segmentation by loan purpose and credit grade to identify key drivers of loan demand.
 
 ## 7. Methodology
 ### Data Cleaning and Preparation:
@@ -165,12 +172,12 @@ This classification supports portfolio quality assessment and credit risk evalua
 - Enhance portfolio monitoring with interactive KPI benchmarking across borrower categories and loan performance segments.
 
 ## 12. Author
-**Godiwn Deborah**
+**Godwin Deborah**
 
 Data Analyst
 - 🔗 [Linkedin](https://www.linkedin.com/in/godwin-deborah-163b10398/?skipRedirect=true)
 - 💼 [GitHub](https://github.com/GodwinDeborah)
-- 📧 [Email](debbiegodwin001@gmail.com)
+- 📧 [Email](mailto:debbiegodwin001@gmail.com)
 
 
 
